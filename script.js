@@ -1,3 +1,4 @@
+//script file
 function calculatePercentage() {
     // Get input values
     const sgpa1 = parseFloat(document.getElementById('sgpa1').value);

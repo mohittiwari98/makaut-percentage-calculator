@@ -1,8 +1,16 @@
 # makaut-percentage-calculator
 
+ <div align="center">
+  <img src="capture202.PNG" alt="DevOpsShack Banner">
+</div>
+
 Welcome to the MAKAUT Percentage Calculator, a simple and elegant web application designed to calculate your percentage, CGPA, and eligibility for the Swami Vivekananda Merit Cum Means Scholarship (SVMCM) based on your SGPA and number of subjects from MAKAUT (Maulana Abul Kalam Azad University of Technology) semesters. This tool provides a user-friendly interface with visual feedback, including a celebratory GIF for eligible students!
 
 ### Overview
+
+ <div align="center">
+  <img src="capture201.PNG" alt="DevOpsShack Banner">
+</div>
 
 This calculator helps MAKAUT students convert their Semester Grade Point Average (SGPA) into a percentage and Cumulative Grade Point Average (CGPA) using the official MAKAUT formula: (CGPA - 0.75) * 10. It also determines eligibility for the SVMCM scholarship (≥ 60% percentage) with a delightful congratulatory animation.
 
